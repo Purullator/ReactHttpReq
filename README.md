@@ -1,4 +1,4 @@
-# REACT BEHIND THE SCENES
+# REACT HTTP REQUESTS
 
 # Getting Started with Create React App
 
